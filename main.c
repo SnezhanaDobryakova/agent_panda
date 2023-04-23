@@ -339,8 +339,6 @@ int WINAPI WinMain(HINSTANCE hInstance,
 
             if (State==1)
             {
-                //Show_Background(background, &Charactr, &BackGroundCoord);
-
                 Hero_Move(&pers);
 
                 Hero_Show(&pers);
