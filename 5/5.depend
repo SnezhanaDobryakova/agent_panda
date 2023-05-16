@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1684242741 source:c:\users\Снежана\desktop\4 семестр\Компьютерная графика\5\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1684242326 c:\users\Снежана\desktop\4 семестр\Компьютерная графика\5\camera.h
+
+1684242483 source:c:\users\Снежана\desktop\4 семестр\Компьютерная графика\5\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+
