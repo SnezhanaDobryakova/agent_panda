@@ -5,7 +5,7 @@
 float xAlfa = 20;
 float zAlfa = 0;
 POINTFLOAT pos = {0, 0};
-int n = 5;
+int n = 6;
 float vertex[] = {-1,-1,1, 1,-1,1, 1,1,1, -1,1,1};
 float normal[] = {-1,-1,1, 1,-1,1, 1,1,1, -1,1,1};
 
