@@ -276,8 +276,8 @@ int WINAPI WinMain(HINSTANCE hInstance,
                     glPushMatrix();
                         glRotatef(36*i, 0, 0, 1);
                         glTranslatef(8, 0, 0);
-                        glColor4f(0.5,0.5,1,transparency);
-                        DrawPrism(6);
+                        glColor4f(0.5,0.0,1,transparency);
+                        DrawPrism(7);
                     glPopMatrix();
                     transparency -= 0.1;
                 }
